@@ -1,0 +1,20 @@
+conda create --name myDjangoEnc anaconda or django              to create new env
+conda activate myDjangoEnv                                      to activate env
+conda deactivate                                                to deactivate env
+conda info --envs                                               to get info for envs
+conda install django                                            to install django
+
+django-admin startproject first_project                         to create new django project
+python manage.py runserver                                      to run server
+python manage.py startapp first_app                             to create new app in project    
+
+python manage.py migrate				 	to migrate
+python manage.py makemigrations first_app 			to register the change to our application
+python manage.py migrate				 	to agian migrate
+python manage.py shell						to open shell
+from first_app.models import Topic                              to import topic from app
+print(Topic.objects.all())					to print all objects from topic model
+t = Topic(top_name="Social Network")				to add object to model
+t.save()							to save new object to model
+source ~/anaconda3/etc/profile.d/conda.sh                       to run conda on bash
+

@@ -1,0 +1,305 @@
+<div class="main_section_back"  data-aos="fade-up"
+     data-aos-duration="3000">
+	<div class="container">
+		<div class="row ipad_width_responsive_services">
+			<div class="col-md-3">
+				<a href="#!" class="main_sections_gsrt_a">
+				<div class="main_sections_gsrt hvr-shutter-out-vertical" style="background-image: url('img/Dream_Mall.jpg');">
+					<img src="img/mfood.png">
+					<h3>Goods</h3>
+					<p>The world's largest food-service messaging service and working with 125,000 merchants</p>
+				</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">
+				<a href="#!" class="main_sections_gsrt_a">
+				<div class="main_sections_gsrt hvr-shutter-out-vertical" style="background-image: url('img/plumber.jpg');">
+					<img src="img/mfood.png">
+					<h3>Services</h3>
+					<p>The world's largest food-service messaging service and working with 125,000 merchants</p>
+				</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">
+				<a href="#!" class="main_sections_gsrt_a">
+				<div class="main_sections_gsrt hvr-shutter-out-vertical" style="background-image: url('img/mirazur.jpg');">
+					<img src="img/mfood.png">
+					<h3>Resturants</h3>
+					<p>The world's largest food-service messaging service and working with 125,000 merchants</p>
+				</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">
+				<a href="#!" class="main_sections_gsrt_a">
+				<div class="main_sections_gsrt hvr-shutter-out-vertical" style="background-image: url('img/texi.jpg');">
+					<img src="img/mfood.png">
+					<h3>Taxi's</h3>
+					<p>The world's largest food-service messaging service and working with 125,000 merchants</p>
+				</div>
+				</a>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+<div class="register_section">
+	<div class="row ml-0 mr-0">
+		<div class="col-md-4 pr-0 pl-0">
+			<div class="animate_image">
+				<img src="img/bannercar.png">
+			</div>
+		</div>
+		<div class="col-md-4 pr-0 pl-0">
+			<div class="animate_image hide_mob">
+				<img src="img/bannercar.png">
+			</div>
+		</div>
+		<div class="col-md-4 pr-0 pl-0">
+			<div class="animate_image hide_mob">
+				<img src="img/bannercar.png">
+			</div>
+		</div>
+	</div>
+	<div class="container">
+	<div class="row ml-0 mr-0 ipad_width_respon_register">
+		<div class="col-md-6">
+			<div class="easy_use_section" data-aos="fade-right" data-aos-duration="3000">
+				<h1>EASY OF USE OF PIKUP-TAXI</h1>
+				<a href="#!">
+				<div class="easy_use_inner_sections">
+					<h2>Specify pick-up and delivery</h2>
+					<p>Specify pick-up and delivery points. Go-Taxi will estimate the service Cost for you.</p>
+				</div>
+				</a>
+
+				<a href="#!">
+				<div class="easy_use_inner_sections">
+					<h2>Specify pick-up and delivery</h2>
+					<p>Specify pick-up and delivery points. Go-Taxi will estimate the service Cost for you.</p>
+				</div>
+				</a>
+
+				<a href="#!">
+				<div class="easy_use_inner_sections">
+					<h2>Specify pick-up and delivery</h2>
+					<p>Specify pick-up and delivery points. Go-Taxi will estimate the service Cost for you.</p>
+				</div>
+				</a>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="mobile_image" data-aos="fade-left" data-aos-duration="3000">
+				<img src="img/hand.png">
+			</div>
+		</div>
+	</div>	
+	</div>
+</div>
+
+	<!-- Banner section -->
+	<!-- <section class="banner-section">
+		<div class="container">
+			<div class="banner set-bg" data-setbg="img/banner-bg.jpg">
+				<div class="tag-new">NEW</div>
+				<span>New Arrivals</span>
+				<h2>STRIPED SHIRTS</h2>
+				<a href="#" class="site-btn">SHOP NOW</a>
+			</div>
+		</div>
+	</section> -->
+	<!-- Banner section end  -->
+
+<div class="testimonial_main_sec" data-aos="zoom-in-up" data-aos-duration="3000">
+	
+	<div class="container">
+	<div class="row">
+		<div class="col-sm-12">			
+			<div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin-bottom: 130px;">
+				<h2>Customer Testimonials</h2>
+				<!-- Carousel indicators -->
+				<ol class="carousel-indicators">
+					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+					<li data-target="#myCarousel" data-slide-to="1"></li>
+					<li data-target="#myCarousel" data-slide-to="2"></li>
+				</ol>   
+				<!-- Wrapper for carousel items -->
+				<div class="carousel-inner">
+					<div class="item carousel-item active">
+						<div class="row">
+							<div class="col-sm-6">
+								<div class="testimonial">
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante.</p>
+								</div>
+								<div class="media">
+									<div class="media-left d-flex mr-3">
+										<img src="/examples/images/clients/1.jpg" alt="">										
+									</div>
+									<div class="media-body">
+										<div class="overview">
+											<div class="name"><b>Paula Wilson</b></div>
+											<div class="details"><p>Media Analyst / SkyNet</p></div>
+											<div class="star-rating">
+												<ul class="list-inline">
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+												</ul>
+											</div>
+										</div>										
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-6">
+								<div class="testimonial">
+									<p>Vestibulum quis quam ut magna consequat faucibu. Eget mi suscipit tincidunt. Utmtc tempus dictum. Pellentesque virra. Quis quam ut magna consequat faucibus quam.</p>
+								</div>
+								<div class="media">
+									<div class="media-left d-flex mr-3">
+										<img src="/examples/images/clients/2.jpg" alt="">
+									</div>
+									<div class="media-body">
+										<div class="overview">
+											<div class="name"><b>Antonio Moreno</b></div>
+											<div class="details"><p>Web Developer / SoftBee</p></div>
+											<div class="star-rating">
+												<ul class="list-inline">
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+												</ul>
+											</div>
+										</div>										
+									</div>
+								</div>
+							</div>
+						</div>			
+					</div>
+					<div class="item carousel-item">
+						<div class="row">
+							<div class="col-sm-6">
+								<div class="testimonial">
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante.</p>
+								</div>
+								<div class="media">
+									<div class="media-left d-flex mr-3">
+										<img src="/examples/images/clients/3.jpg" alt="">										
+									</div>
+									<div class="media-body">
+										<div class="overview">
+											<div class="name"><b>Michael Holz</b></div>
+											<div class="details"><p>Web Developer / DevCorp</p></div>											
+											<div class="star-rating">
+												<ul class="list-inline">
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+												</ul>
+											</div>
+										</div>										
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-6">
+								<div class="testimonial">
+									<p>Vestibulum quis quam ut magna consequat faucibu. Eget mi suscipit tincidunt. Utmtc tempus dictum. Pellentesque virra. Quis quam ut magna consequat faucibus quam.</p>
+								</div>
+								<div class="media">
+									<div class="media-left d-flex mr-3">
+										<img src="/examples/images/clients/4.jpg" alt="">										
+									</div>
+									<div class="media-body">
+										<div class="overview">
+											<div class="name"><b>Mary Saveley</b></div>
+											<div class="details"><p>Graphic Designer / MarsMedia</p></div>
+											<div class="star-rating">
+												<ul class="list-inline">
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+												</ul>
+											</div>
+										</div>										
+									</div>
+								</div>
+							</div>
+						</div>			
+					</div>
+					<div class="item carousel-item">
+						<div class="row">
+							<div class="col-sm-6">
+								<div class="testimonial">
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante.</p>
+								</div>
+								<div class="media">
+									<div class="media-left d-flex mr-3">
+										<img src="/examples/images/clients/5.jpg" alt="">										
+									</div>
+									<div class="media-body">
+										<div class="overview">
+											<div class="name"><b>Martin Sommer</b></div>
+											<div class="details"><p>SEO Analyst / RealSearch</p></div>
+											<div class="star-rating">
+												<ul class="list-inline">
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+												</ul>
+											</div>
+										</div>										
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-6">
+								<div class="testimonial">
+									<p>Vestibulum quis quam ut magna consequat faucibu. Eget mi suscipit tincidunt. Utmtc tempus dictum. Pellentesque virra. Quis quam ut magna consequat faucibus quam.</p>
+								</div>
+								<div class="media">
+									<div class="media-left d-flex mr-3">
+										<img src="/examples/images/clients/6.jpg" alt="">										
+									</div>
+									<div class="media-body">
+										<div class="overview">
+											<div class="name"><b>John Williams</b></div>
+											<div class="details"><p>Web Designer / UniqueDesign</p></div>
+											<div class="star-rating">
+												<ul class="list-inline">
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star"></i></li>
+													<li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+												</ul>
+											</div>
+										</div>										
+									</div>
+								</div>
+							</div>
+						</div>			
+					</div>
+				</div>
+				<!-- Carousel controls -->
+				<a class="carousel-control left carousel-control-prev" href="#myCarousel" data-slide="prev">
+					<i class="fa fa-chevron-left"></i>
+				</a>
+				<a class="carousel-control right carousel-control-next" href="#myCarousel" data-slide="next">
+					<i class="fa fa-chevron-right"></i>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
